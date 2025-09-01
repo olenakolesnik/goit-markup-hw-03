@@ -1,0 +1,221 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+}
+a {
+    text-decoration: none;
+}
+.a:hover, a:focus {
+    color: #4d5ae5;
+}
+.link {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+} 
+    address {
+        font-style: normal;
+    }
+    button {
+        cursor: pointer;}
+    
+      
+
+/*-----------HEADER----------*/
+.header-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #4d5ae5;
+        text-transform: uppercase;
+}
+.header-logo-italic {
+    font-family: "Raleway", sans-serif;
+    color: #2e2f42;
+}
+
+.header-menu-list {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.header-menu-link {
+    color: #2e2f42;
+}
+.header-menu-link:hover, .header-menu-link:focus {
+    color: #404bbf;
+}
+
+.header-contacts-link {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.header-contacts-link:hover, .header-contacts-link:focus {
+    color: #404bbf;
+}
+
+
+/*-------HERO--------*/
+
+.hero {
+    background-color: #2e2f42;
+}
+.hero-btn-orange {
+    font-family: inherit;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5;
+}
+.hero-btn-orange:hover, .hero-btn-orange:focus  {
+        background-color: #404bbf;
+    }
+
+.hero-title {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.hero-title:hover, .hero-title:focus {
+    color: #404BBF;
+}
+
+/*-------------FEATURE---------*/
+
+.feature {}
+
+.feature-list {}
+
+.sfeature-list-item {}
+
+.feature-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.feature-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*---------TEAM-------*/
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
+}
+
+.team-list {
+    background-color: #FFFFFF;
+}
+
+.team-list-item {
+    background-color: #FFFFFF;
+}
+
+.team-images {}
+
+.team-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        color: #2e2f42;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+.team-text {
+        font-size: 16px;
+        line-height: 1.5;
+        color: #434455;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+/*------PORTFOLIO------*/
+
+.portfolio {}
+
+.portfolio-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        text-transform: capitalize;
+        
+}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-images {}
+
+.portfolio-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.portfolio-text {
+        font-size: 16px;
+        line-height: 1.5;
+        color: #434455;
+        letter-spacing: 0.02em;
+          
+}
+
+/*----------FOOTER---------*/
+.foot {
+    background-color: #2e2f42;
+}
+
+.foot-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    color: #4d5ae5;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.foot-text {
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+}
+.foot-logo-italic {
+    color: #f4f4fd;
+}
