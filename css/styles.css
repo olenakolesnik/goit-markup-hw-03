@@ -34,8 +34,7 @@ ul {
 
     .container {
          width: 1158px;
-         padding-left: 15px;
-         padding-right: 15px; 
+         padding: 0 15px; 
          margin: 0 auto;  
         }
 img {
@@ -113,8 +112,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 24px 0;
 }
 
 /*-------HERO--------*/
@@ -218,6 +216,7 @@ img {
 .team-list-item {
     background-color: #FFFFFF;
     width: calc((100%-72px)/4);
+    border-radius: 0px 0px 4px 4px;
 }
 .team-name-profession {
     padding: 32px 0;
@@ -316,7 +315,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     display: inline-block;
-    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .foot-text {
