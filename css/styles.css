@@ -75,7 +75,6 @@ img {
 .header-navigation {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .header-menu-list {
@@ -87,7 +86,6 @@ img {
         display: flex;
         align-items: center;
         gap: 40px;
-        padding: 24px 0;
 }
 .header-menu-item {
     padding: 24px 0;
@@ -103,7 +101,6 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-contacts-link {
@@ -221,7 +218,6 @@ img {
 }
 
 .team-list-item {
-    background-color: #FFFFFF;
     width: calc((100%-72px)/4);
     border-radius: 0px 0px 4px 4px;
 }
@@ -229,7 +225,6 @@ img {
     padding: 32px 0;
 }
 .team-images {
-    margin-bottom: 32px;
 }
 
 .team-subtitle {
@@ -286,7 +281,6 @@ img {
 }
 
 .portfolio-images {
-    margin-bottom: 32px;
 }
 
 .portfolio-subtitle {
@@ -331,7 +325,6 @@ img {
     line-height: 1.5;
     color: #f4f4fd;
     max-width: 264px;
-    margin-top: 16px;
 }
 .foot-logo-italic {
     color: #f4f4fd;
