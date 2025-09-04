@@ -85,6 +85,7 @@ img {
         display: flex;
         align-items: center;
         gap: 40px;
+        padding: 24px 0;
 }
 .header-menu-link {
     color: #2e2f42;
@@ -275,7 +276,7 @@ img {
 
 .portfolio-item {
     border-bottom: 1px solid var(--cornflower);
-    width: calc((100%-48px)/3);
+    width: ((100% - 48px) / 3);
 }
 
 .portfolio-images {
